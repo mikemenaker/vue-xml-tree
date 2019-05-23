@@ -1,10 +1,7 @@
 # vue-xml-tree
-Vue.js 3.0 XML tree viewer component
+Vue.js XML tree viewer component
 
 [![GitHub release](https://img.shields.io/github/release/mikemenaker/vue-xml-tree.svg)]() [![license](https://img.shields.io/github/license/mikemenaker/vue-xml-tree.svg)]()
-
-# vue-xml-tree
-Vue.js 3.0 XML tree viewer
 
 ## Installation
 ### With npm:
